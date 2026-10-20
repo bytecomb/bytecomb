@@ -36,7 +36,6 @@ cloudflare-workers  python  swift  telegram-bot-api  linux  git
 
 ```console
 $ ./contact --list
-x        https://x.com/kunkunbeng
 github   https://github.com/bytecomb
 ```
 
