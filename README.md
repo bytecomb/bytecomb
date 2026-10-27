@@ -7,6 +7,10 @@ Independent builder. Infrastructure, automation and AI tooling.
 I like systems that run themselves.
 ```
 
+### `~/contributions`
+
+![My contribution animation](images/contriboom/game.svg)
+
 ### `~/focus`
 
 ```console
